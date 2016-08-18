@@ -1,0 +1,8 @@
+D:\Documents\Education\Programming\Visual Studio\Visual F#\Machine Learning\Part 1\bin\Release\Part_1.exe.config
+D:\Documents\Education\Programming\Visual Studio\Visual F#\Machine Learning\Part 1\bin\Release\Part_1.XML
+D:\Documents\Education\Programming\Visual Studio\Visual F#\Machine Learning\Part 1\bin\Release\Part_1.exe
+D:\Documents\Education\Programming\Visual Studio\Visual F#\Machine Learning\Part 1\bin\Release\Part_1.pdb
+D:\Documents\Education\Programming\Visual Studio\Visual F#\Machine Learning\Part 1\bin\Release\FSharp.Core.dll
+D:\Documents\Education\Programming\Visual Studio\Visual F#\Machine Learning\Part 1\bin\Release\FSharp.Core.xml
+D:\Documents\Education\Programming\Visual Studio\Visual F#\Machine Learning\Part 1\obj\Release\Part_1.exe
+D:\Documents\Education\Programming\Visual Studio\Visual F#\Machine Learning\Part 1\obj\Release\Part_1.pdb

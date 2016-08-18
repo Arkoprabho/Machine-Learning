@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>Part_1</name></assembly>
+<members>
+<member name="T:Program.Entry">
+<summary>
+ The type that represents each row of the training or test dataset
+</summary>
+</member>
+<member name="M:Program.drawDigit(System.Double[],System.String)">
+<summary>
+ Draws the digit
+</summary>
+</member>
+<member name="M:Program.kNN(Microsoft.FSharp.Collections.FSharpList{Program.Entry},System.Tuple{System.String,System.Int32[]},System.Int32)">
+<summary>
+ A generic k-nearest neighbour algorithm
+</summary>
+</member>
+<member name="M:Program.loadValues(System.String)">
+<summary>
+ Loading values from the training or test data.
+</summary>
+</member>
+<member name="M:Program.distance(Microsoft.FSharp.Collections.FSharpList{System.Int32},Microsoft.FSharp.Collections.FSharpList{System.Int32})">
+<summary>
+ Calculates the squared euclidean distance between pixel values of 2 images
+</summary>
+</member>
+</members>
+</doc>
